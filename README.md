@@ -75,3 +75,7 @@ streamlit run app.py
 
 ## Conclusion
 This project helped me understand how LSTM networks process sequential text data and perform next-word prediction. Although the model had limitations, it was a valuable hands-on learning experience in Deep Learning and NLP.
+
+## Application Screenshot
+
+![Streamlit App](images/app_screenshot.png)
